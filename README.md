@@ -1,6 +1,7 @@
 # FinalPartIII
 
-This will serve as a broad outline of my final project which is posted publicly on <a href="https://preview.shorthand.com/tPmkQv7NnmhSY1Ix"_blank">Shorthand</a>. You can reach my Part I at this link.
+This will serve as a broad outline of my final project which is posted publicly on 
+<a href="https://preview.shorthand.com/tPmkQv7NnmhSY1Ix">Shorthand</a>. You can reach my Part I at this link.
   
 ## Part I Summary -- The link above has the complete details 
 
