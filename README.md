@@ -1,7 +1,7 @@
 # FinalPartIII
 
 This will serve as a broad outline of my final project which is posted publicly on 
-<a href="https://preview.shorthand.com/tPmkQv7NnmhSY1Ix">Shorthand</a>. You can reach my Part I at this link.
+<a href="https://preview.shorthand.com/tPmkQv7NnmhSY1Ix">Shorthand</a>.
   
 ## Part I Summary -- The link above has the complete details 
 
@@ -26,7 +26,7 @@ My call to action is twofold. First, I would like to ask people to donate or vol
 ### Part II 
 
 My part II data sketches, wire framing, and interviews are linked 
-<a href=https://cspivey00.github.io/Part-II-Wireframe-Test/">here</a>.
+<a href="https://cspivey00.github.io/Part-II-Wireframe-Test/">here</a>.
 
 ### Part III
 
@@ -34,4 +34,4 @@ A few paragraphs that talk about the intended audience for your final data story
 
 I remade some of the graphs to be easier to digest -- IE: the annual immigration graph that shows the stagnation of permanent residents annually over the last three decades or the interactive permanent residents by state. I also needed to really dial in to one specific group of immigrants -- permanent residents -- so that the information was more digestible. I found it difficult to demonstrate the origin - destination relationship even with the alluvial graph which need to be broken down into two seperate graphs to really be able to understand the information. 
 
-A final link to my shorthand presentation can be seen <a href=https://preview.shorthand.com/tPmkQv7NnmhSY1Ix">here</a> as well as in the google sheets for final presentations. 
+A final link to my shorthand presentation can be seen <a href="https://preview.shorthand.com/tPmkQv7NnmhSY1Ix">here</a> as well as in the google sheets for final presentations. 
